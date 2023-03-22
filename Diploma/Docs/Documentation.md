@@ -80,7 +80,7 @@
 # Запуск сервиса и его структура
     
     Для создания образа необходимы следующие файлы:
-    (https://github.com/Marina81R/Diploma/raw/master/image/files.png)
+    (https://github.com/Marina81R/ML-2-YEAR/blob/main/Diploma/Docs/files.png)
 
     Создание контейнера:
         docker build -t diploma .

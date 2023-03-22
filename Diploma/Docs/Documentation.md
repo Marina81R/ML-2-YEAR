@@ -82,6 +82,8 @@
     Для создания образа необходимы следующие файлы:
 ![Screen](https://github.com/Marina81R/ML-2-YEAR/blob/main/Diploma/Docs/files.png)
 
+<img src="[path/to/screenshot.png](https://github.com/Marina81R/ML-2-YEAR/blob/main/Diploma/Docs/files.png)" width="500">
+
     Создание контейнера:
         docker build -t diploma .
     Запуск контейнера:
